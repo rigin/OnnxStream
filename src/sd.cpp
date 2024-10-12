@@ -14,6 +14,7 @@
 #include <psapi.h>
 #endif
 
+#include <cstring>
 #include <algorithm>
 #include <cmath>
 #include <climits>
